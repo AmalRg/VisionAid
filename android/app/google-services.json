@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38663277244",
+    "project_id": "voyage01-db9e6",
+    "storage_bucket": "voyage01-db9e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38663277244:android:833fab483bd32d8bbf5eb9",
+        "android_client_info": {
+          "package_name": "com.example.visonaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfFZ7nkawu2VX-tKElop2lqtI6IcOlOK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
