@@ -4,6 +4,11 @@
 and visually impaired people in their daily lives 📴💡 — 100% offline,
 no internet required.🌐❌
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![MLKit](https://img.shields.io/badge/Google-ML%20Kit-blue?style=flat&logo=google)
+![Offline](https://img.shields.io/badge/Connection-100%25%20Offline-green)
+
 ## Features
 
 - **Real-time scene description** — Camera analyzes surroundings and
@@ -39,7 +44,7 @@ no internet required.🌐❌
 
 - Flutter 3.0+
 - Android SDK 21+ (minSdk)
-- Android Studio / VS Code
+- Android Studio
 
 ## Installation
 
