@@ -19,7 +19,7 @@ no internet required.🌐❌
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/fed3f0bf-ea2c-460f-bc43-e8da8040cef5" width="150" alt="6" /></td>
-    <td><img src="https://github.com/user-attachments/assets/a034ed94-164d-43db-8688-c1a4a018e820" width="150" alt="7" /></td>
+    <td><img src="https://github.com/user-attachments/assets/a034ed94-164d-43db-8688-c1a4a018e820" width="160" alt="7" /></td>
     <td><img src="https://github.com/user-attachments/assets/9f656c5d-86d9-46e6-ab4e-763f0fb01daa" width="150" alt="8" /></td>
     <td><img src="https://github.com/user-attachments/assets/3408783c-4f74-4f42-87d6-75ef8bf15cb5" width="150" alt="9" /></td>
     <td><img src="https://github.com/user-attachments/assets/5c4e6eee-902e-4d9c-9133-197d5cdee304" width="150" alt="10" /></td>
